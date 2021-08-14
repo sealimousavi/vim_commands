@@ -17,7 +17,6 @@
 | gg | take you to top of file |
 | } | skip and goes down a block of code |
 | { | skip and goes up a block of code |
-# You can use number with all commands of vim and will do it that many times
 | 5j | goes down to 5 line|
 | u | undo commands |
 | ctrl R | redo command |
